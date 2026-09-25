@@ -136,6 +136,7 @@ with everything linked back to its SEC source:
 - [Full API reference (Markdown)](https://www.akkrudata.ai/FINANCIAL_API_DOCUMENTATION.md)
 - [Official MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.akkrudata) — `ai.akkrudata/akkrudata`
 - [Glama listing](https://glama.ai/mcp/connectors/ai.akkrudata/akkrudata)
+- [Smithery listing](https://smithery.ai/servers/akkrudata/akkrudata)
 - [Privacy policy](https://www.akkrudata.ai/privacy) · [Beta terms](https://www.akkrudata.ai/beta-terms)
 - Support: support@akkrudata.ai
 
